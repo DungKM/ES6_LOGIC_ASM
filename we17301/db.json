@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "id": "3",
+      "name": "Dự án 1",
+      "img": "https://picsum.photos/400/400",
+      "categoryProjectId": "1"
+    },
+    {
+      "name": "dự án 2",
+      "img": "https://picsum.photos/400/400",
+      "id": "RvD8u-h",
+      "categoryProjectId": "1"
+    },
+    {
+      "name": "Dự án 3",
+      "img": "https://picsum.photos/400/400",
+      "id": "24-Qnig",
+      "categoryProjectId": "2"
+    },
+    {
+      "name": "Dự án 4",
+      "img": "https://picsum.photos/400/400",
+      "id": "25-Qnig",
+      "categoryProjectId": "1"
+    }
+  ],
+  "categoryProjects": [
+    {
+      "id": "1",
+      "name": "Category A"
+    },
+    {
+      "id": "2",
+      "name": "Tuấn đz"
+    },
+    {
+      "id": "3",
+      "name": "Hoang Anh Dung"
+    },
+    {
+      "id": "4",
+      "name": "Lý Anh Tuấn"
+    }
+  ]
+}

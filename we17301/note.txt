@@ -1,0 +1,9 @@
+
+Lưu ý: mỗi project phải khai báo thêm trường categoryProjectId
+Nếu muốn lấy tất cả sản phẩm nằm trong 1 danh mục
+Thì phải thêm tham số _embed khi gọi API
+- http://localhost:3000/categoryProjects?_embed=projects
+
+Nếu muốn lấy danh mục thuộc 1 dự án 
+thì phải thêm tham số _expand khi gọi API
+http://localhost:3000/projects/1?_expand=categoryProject

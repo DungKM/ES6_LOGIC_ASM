@@ -1,0 +1,87 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "CV Content Luân",
+      "content": "Hello World",
+      "image": "",
+      "author": "Hoang Anh Dung",
+      "years_of_experience": "2",
+      "satisfied_clients": "450",
+      "working_hours": "190",
+      "awards_won": "10"
+    }
+  ],
+  "profile": [
+    {
+      "id": "1",
+      "name": "Hoang Anh Dung",
+      "age": "19",
+      "image": "http://127.0.0.1:5500/image/user-img.png",
+      "position": "front-end developer"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "name": "Hoang Anh Dung",
+      "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem quas delectus, laboriosam nulla dolore in."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "name": "Hoang Anh Dung",
+      "describe": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem quas delectus, laboriosam nulla dolore in.",
+      "img": "https://images.unsplash.com/photo-1579613832125-5d34a13ffe2a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YXBwbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=2000&q=60"
+    }
+  ],
+  "contact": [
+    {
+      "id": "1",
+      "name": "Hoang Anh Dung",
+      "email": "dunghaph19791@fpt.edu.vn",
+      "subject": "subject",
+      "message": "Hello World"
+    }
+  ],
+  "menu": [
+    {
+      "id": "1",
+      "name": "Home",
+      "path": "/home"
+    },
+    {
+      "id": "2",
+      "name": "About",
+      "path": "/about"
+    },
+    {
+      "id": "3",
+      "name": "Services",
+      "path": "/services"
+    },
+    {
+      "id": "4",
+      "name": "Portfolio",
+      "path": "/portfolio"
+    },
+    {
+      "id": "5",
+      "name": "Contact",
+      "path": "/contact"
+    }
+  ],
+  "skill": [
+    {
+      "id": "1",
+      "name": "web design",
+      "progress": "90"
+    },
+    {
+      "id": "2",
+      "name": "HTML",
+      "progress": "85"
+    }
+  ]
+}
